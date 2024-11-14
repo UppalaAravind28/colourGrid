@@ -1,0 +1,36 @@
+#pink{
+    background-color: pink;
+}
+#black{
+    background-color: black;
+    color: white;
+}
+#voilet{
+    background-color: violet;
+}
+#purple{
+    background-color: purple;
+    color: azure;
+}
+.b{
+    background-color: brown;
+    color: azure;
+}
+.m{
+    background-color: magenta;
+    color: beige;
+}
+.r{
+    background-color: rgb(163, 98, 98);
+    color: azure;
+}
+.p{
+    background-color: peachpuff;
+}
+table{
+    width: 400px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
